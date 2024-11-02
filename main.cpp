@@ -15,19 +15,19 @@ int main() {
         switch (currentState) {
             case MENU:
                 drawMenu();
-                if (glfwGetKey(window, GLFW_KEY_KP_1) == GLFW_PRESS) {
+                if (glfwGetKey(window, GLFW_KEY_1) == GLFW_PRESS) {
                     difficulty = 1.0f;
                     currentState = GameState::PLAYING;
                 }
-                if (glfwGetKey(window, GLFW_KEY_KP_2) == GLFW_PRESS) {
+                if (glfwGetKey(window, GLFW_KEY_2) == GLFW_PRESS) {
                     difficulty = 1.5f;
                     currentState = GameState::PLAYING;
                 }
-                if (glfwGetKey(window, GLFW_KEY_KP_3) == GLFW_PRESS) {
+                if (glfwGetKey(window, GLFW_KEY_3) == GLFW_PRESS) {
                     difficulty = 2.0f;
                     currentState = GameState::PLAYING;
                 }
-                if (glfwGetKey(window, GLFW_KEY_KP_0) == GLFW_PRESS) {
+                if (glfwGetKey(window, GLFW_KEY_0) == GLFW_PRESS) {
                     currentState = GameState::GAME_OVER;
                 }
                 InitializeGame();
