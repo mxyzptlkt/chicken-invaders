@@ -144,16 +144,16 @@
     <ClCompile Include="main.cpp" />
   </ItemGroup>
   <ItemGroup>
+    <Text Include="README.txt" />
+    <Text Include="game_log.txt" />
+  </ItemGroup>
+  <ItemGroup>
     <ClInclude Include="config.h" />
     <ClInclude Include="gameplay.h" />
     <ClInclude Include="menu.h" />
     <ClInclude Include="random.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="stb_image.h" />
-  </ItemGroup>
-  <ItemGroup>
-    <Text Include="README.txt" />
-    <Text Include="game_log.txt" />
   </ItemGroup>
   <ItemGroup>
     <Image Include="chickenInvaders.ico" />

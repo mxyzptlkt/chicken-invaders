@@ -28,6 +28,8 @@ I. How to Start the Game
 # To run the Chicken Invaders game, follow these steps:
 
 1. Clone or Download the Project: Ensure you have all necessary project files.
+   - If you are using Git, open the command prompt and input the following command:
+     git clone https://github.com/mxyzptlkt/chicken-invaders.
 2. If you just want to play the game:
    - Open the Project folder → x64 → Release.
    - Run chickenInvaders.exe with a chicken icon.
