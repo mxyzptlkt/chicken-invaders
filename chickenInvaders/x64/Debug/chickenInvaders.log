@@ -1,0 +1,24 @@
+﻿  main.cpp
+D:\Code\C++\openGL\chickenInvaders\config.h(9,20): warning C4305: 'initializing': truncation from 'double' to 'const float'
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(136,18): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(145,28): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(146,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(147,26): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(148,30): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\gameplay.h(442,22): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+  (compiling source file 'main.cpp')
+  
+D:\Code\C++\openGL\chickenInvaders\main.cpp(40,59): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  chickenInvaders.vcxproj -> D:\Code\C++\openGL\chickenInvaders\x64\Debug\chickenInvaders.exe
